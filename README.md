@@ -24,6 +24,6 @@ Download Random Recipes [here](https://github.com/tahabisginsoftware/simpleRPS/r
 
 # Screenshots
 <img align="left" alt="rps1" src="https://github.com/tahabisginsoftware/simpleRPS/blob/master/assets/screen_one.png" width="300"/>
-<img align="left" alt="rps2" src="https://github.com/tahabisginsoftware/RandomRecipes/blob/master/assets/screen_two.png" width="300"/>
+<img align="left" alt="rps2" src="https://github.com/tahabisginsoftware/simpleRPS/blob/master/assets/screen_two.png" width="300"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ©TahaBisginSoftware, all rights reserved.
