@@ -1,6 +1,6 @@
 ![simpleRPS](https://github.com/tahabisginsoftware/simpleRPS/blob/master/assets/github%20cover.png "simpleRPS")
 
-Random Recipes.<br>
+Simple RPS.<br>
 Made by [Taha Bisgin](https://tahabisginsoftware.com).
 
 # Setup
