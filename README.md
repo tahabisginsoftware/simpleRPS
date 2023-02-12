@@ -20,7 +20,7 @@ Alternatively, you can start both the server and the app up by: `npm run android
 
 # Download
 
-Download Random Recipes [here](https://github.com/tahabisginsoftware/simpleRPS/releases/tag/release).
+Download Simple RPS [here](https://github.com/tahabisginsoftware/simpleRPS/releases/tag/release).
 
 # Screenshots
 <img align="left" alt="rps1" src="https://github.com/tahabisginsoftware/simpleRPS/blob/master/assets/screen_one.png" width="300"/>
